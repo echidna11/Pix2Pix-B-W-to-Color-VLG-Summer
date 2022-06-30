@@ -27,6 +27,6 @@ The weights of the generator will be updated via both adversarial loss via the d
 Below are a few generated outputs.
 
 ## Generated Outputs(Results):
-Real Images were not a part of the dataset and were captured in grayscale originally:
+Real Images were not a part of the dataset:
 
 ![Screenshot (244)](https://user-images.githubusercontent.com/76242511/176699376-0222e55d-7cb6-4b54-9e62-06fdd5222bfd.png)
